@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
-    "element-easy-form": "^1.2.2",
+    "element-easy-form": "^1.2.6",
     "element-plus": "^2.9.0",
     "vue": "^3.2.13"
   },
